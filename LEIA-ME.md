@@ -1,6 +1,7 @@
-# Perfil DOMINADOR · Voz do Ser convida
+# Perfil DOMINADOR · Voz do Ser
 
-Site do resultado do teste de perfil de comunicação.
+Site do resultado do teste de perfil de comunicação. Serve para qualquer
+sessão de expressividade: não cita evento, data nem turma.
 Arquivo único e autossuficiente: o logo está embutido no HTML, não há pasta `assets`.
 
 ## Publicar no GitHub Pages
@@ -22,7 +23,7 @@ Arquivo único e autossuficiente: o logo está embutido no HTML, não há pasta 
 > já nasce com `<meta name="robots" content="noindex, nofollow">`: ele não é
 > indexado pelo Google, mas quem tiver o link consegue abrir.
 
-## Nome do convidado no link
+## Nome da pessoa no link
 
 Acrescente `?n=` com o primeiro nome (ou nome e sobrenome) no fim do endereço:
 
